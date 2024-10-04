@@ -14,7 +14,7 @@ OBJS		=	$(SRCS:%.c=%.o)
 
 # -=-=-=-=-    FLAGS -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #
 
-CC		=	-cc
+CC			=	-cc
 CFLAGS		=	-Werror -Wextra -Wall
 INCLUDE		=	-I./
 
